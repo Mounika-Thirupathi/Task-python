@@ -1,0 +1,53 @@
+          Variables
+1.Variable: A variable is a container which is used to store values for further reference
+2.General Ways to define a variable?
+   	There are three ways to define a variable they are
+   	1.declaration: Adding a label to the container
+   	2.Assignment: Adding a value to the container
+   	3.Initilization: Both declaration and Assignment at a time
+3.Examples of variable:
+       	Var a;
+        	a=10
+        	var a=10;
+4.Defining a variable in python?
+         	Python do not require Declaration and Assignment steps seperately it directly 
+         	use initialization to define a variable
+5. Syntax to define a variable
+             	Variable name = value
+              	Example a = 10
+6.variable conditions
+·       Variable can start with Alphabets or underscores
+·       Variables cannot start with numbers
+·       Variables can start with Alphanumeric or underscores
+·       Variables are case sensitive
+7.Naming conditions
+    	There are two types of naming conditions they are
+        	1.snake case
+        	2.camel case
+      	Snake case : if there is underscore between two words then it is snake case
+Camel case: if there second word start with upper case letter out of two words
+                          	then it is camel case
+8.Multiple Assignments
+a, b, c=1,2,3
+a=1, b=2, c=3
+	a=b=c=10
+a=10, b=10, c=10
+9.output statements
+	Print() à predefined method à prints value
+	g=1220
+              h=399
+	          print(g) ào/p:1220
+	          print(h) ào/p:399
+	          print(h,g) ào/p:399,1220
+   	id() à predefined method àprints unique Address àstored in different container
+  	id(g)à2307159126416
+  	id(h)à2307159126448
+  	print(id(h),id(g))à stored in different container
+ 10.Interning
+           Interning will apply memory pooling
+ 	Example: if a=10
+                       	b=10
+                       	print(id(a), id(b))ào/p: stores in same container
+because both a and b have same value so those values also ranges from -5 to 256 so both are stored in same container
+11.reference count: The reference count for each container is 1 until the interning concept is applied
+ 
