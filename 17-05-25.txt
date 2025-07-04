@@ -1,0 +1,75 @@
+1.What is Cloud Computing?
+Cloud computing is the delivery of computing services—including servers, storage, databases, networking, software, analytics, and intelligence—over the internet (“the cloud”) to offer faster innovation, flexible resources, and economies of scale.
+Instead of owning physical hardware or data centers, organizations and individuals can access computing resources on-demand from cloud service providers and pay only for what they use.
+
+2.Characteristics of Cloud Computing
+On-Demand Self-Service: Users can access resources whenever they need them, without human intervention from the service provider
+
+Broad Network Access: Services are accessible over the internet from various devices like laptops, mobiles, and tablets.
+
+Resource Pooling: Providers serve multiple customers using shared resources while maintaining data security.
+
+Rapid Elasticity: Resources can scale up or down automatically based on demand.
+
+Measured Service: Usage is monitored, controlled, and reported, ensuring transparency between provider and consumer.
+
+
+ 3.Service Models in Cloud Computing
+ Infrastructure as a Service (IaaS)
+ Provides virtualized computing resources over the internet.
+ Example: Amazon EC2, Microsoft Azure VM
+
+ 4.Platform as a Service (PaaS)
+ Provides hardware and software tools over the internet. Developers can build, test, and deploy applications without managing infrastructure.
+ Example: Google App Engine, Microsoft Azure App Services
+
+ 5.Software as a Service (SaaS)
+ Delivers software applications over the internet on a subscription basis.
+ Example: Google Workspace, Microsoft Office 365
+
+6.Deployment Models in Cloud Computing
+ Public Cloud
+ Resources are owned and operated by third-party providers and delivered over the internet.
+ Example: Amazon Web Services (AWS)
+
+ 7.Private Cloud
+ Cloud infrastructure is dedicated to a single organization, either on-premises or hosted by a third-party.
+
+ 8.Hybrid Cloud
+ A combination of public and private clouds, enabling data and applications to be shared between them.
+
+ 9.Community Cloud
+ Infrastructure shared by several organizations with common concerns (security, compliance).
+
+ 10.Advantages of Cloud Computing
+ Cost-Effective: No need to invest in expensive hardware or infrastructure.
+
+Scalability: Easily scale resources up or down based on requirements.
+
+Reliability: Provides data backup, disaster recovery, and high availability.
+
+Accessibility: Access services and data from anywhere via the internet.
+
+Automatic Updates: Cloud providers handle system maintenance and upgrades.
+
+
+11.Applications of Cloud Computing
+Web Hosting and Application Development
+Data Backup and Disaster Recovery
+Software Testing and Development
+Big Data Analytics
+Email and Office Application
+Internet of Things (IoT) Services
+Machine Learning and Artificial Intelligence
+
+
+
+12Popular Cloud Service Providers
+Amazon Web Services (AWS)
+Microsoft Azure
+Google Cloud Platform (GCP)
+IBM Cloud
+Oracle Cloud
+
+
+
